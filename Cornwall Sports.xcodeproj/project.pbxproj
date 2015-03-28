@@ -1,0 +1,490 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A51576A41AC6BEDF00F2CB27 /* cornwall.png in Resources */ = {isa = PBXBuildFile; fileRef = A51576A31AC6BEDF00F2CB27 /* cornwall.png */; };
+		A51576A61AC6BF9F00F2CB27 /* cornwallOutlineMapWhiteTrans.png in Resources */ = {isa = PBXBuildFile; fileRef = A51576A51AC6BF9F00F2CB27 /* cornwallOutlineMapWhiteTrans.png */; };
+		A51576A81AC6C07B00F2CB27 /* Cornwall Cities.png in Resources */ = {isa = PBXBuildFile; fileRef = A51576A71AC6C07B00F2CB27 /* Cornwall Cities.png */; };
+		A51576AD1AC6C2BA00F2CB27 /* Sports-Football-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A51576AC1AC6C2BA00F2CB27 /* Sports-Football-icon.png */; };
+		A51576B71AC6C35E00F2CB27 /* Travel-Beach-Umbrella-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A51576AE1AC6C35E00F2CB27 /* Travel-Beach-Umbrella-icon.png */; };
+		A51576B81AC6C35E00F2CB27 /* Sports-Golf-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A51576AF1AC6C35E00F2CB27 /* Sports-Golf-icon.png */; };
+		A51576B91AC6C35E00F2CB27 /* Sports-Weightlift-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A51576B01AC6C35E00F2CB27 /* Sports-Weightlift-icon.png */; };
+		A51576BA1AC6C35E00F2CB27 /* Sports-Kitesurfing-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A51576B11AC6C35E00F2CB27 /* Sports-Kitesurfing-icon.png */; };
+		A51576BB1AC6C35E00F2CB27 /* Sports-Mountain-Biking-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A51576B21AC6C35E00F2CB27 /* Sports-Mountain-Biking-icon.png */; };
+		A51576BC1AC6C35E00F2CB27 /* Sports-Skiing-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A51576B31AC6C35E00F2CB27 /* Sports-Skiing-icon.png */; };
+		A51576BD1AC6C35E00F2CB27 /* Sports-Swimming-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A51576B41AC6C35E00F2CB27 /* Sports-Swimming-icon.png */; };
+		A51576BE1AC6C35E00F2CB27 /* Sports-Trekking-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A51576B51AC6C35E00F2CB27 /* Sports-Trekking-icon.png */; };
+		A51576BF1AC6C35E00F2CB27 /* Sports-Tennis-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A51576B61AC6C35E00F2CB27 /* Sports-Tennis-icon.png */; };
+		A51576C11AC6C3D000F2CB27 /* Surfing-ico.png in Resources */ = {isa = PBXBuildFile; fileRef = A51576C01AC6C3D000F2CB27 /* Surfing-ico.png */; };
+		A5F8AFFE1AC5B89400BBCC8A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F8AFFD1AC5B89400BBCC8A /* AppDelegate.swift */; };
+		A5F8B0001AC5B89400BBCC8A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F8AFFF1AC5B89400BBCC8A /* ViewController.swift */; };
+		A5F8B0031AC5B89400BBCC8A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5F8B0011AC5B89400BBCC8A /* Main.storyboard */; };
+		A5F8B0051AC5B89400BBCC8A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5F8B0041AC5B89400BBCC8A /* Images.xcassets */; };
+		A5F8B0081AC5B89400BBCC8A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A5F8B0061AC5B89400BBCC8A /* LaunchScreen.xib */; };
+		A5F8B0141AC5B89400BBCC8A /* Cornwall_SportsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F8B0131AC5B89400BBCC8A /* Cornwall_SportsTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A5F8B00E1AC5B89400BBCC8A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A5F8AFF01AC5B89400BBCC8A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A5F8AFF71AC5B89400BBCC8A;
+			remoteInfo = "Cornwall Sports";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A51576A31AC6BEDF00F2CB27 /* cornwall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cornwall.png; sourceTree = "<group>"; };
+		A51576A51AC6BF9F00F2CB27 /* cornwallOutlineMapWhiteTrans.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cornwallOutlineMapWhiteTrans.png; sourceTree = "<group>"; };
+		A51576A71AC6C07B00F2CB27 /* Cornwall Cities.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Cornwall Cities.png"; sourceTree = "<group>"; };
+		A51576AC1AC6C2BA00F2CB27 /* Sports-Football-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sports-Football-icon.png"; sourceTree = "<group>"; };
+		A51576AE1AC6C35E00F2CB27 /* Travel-Beach-Umbrella-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Travel-Beach-Umbrella-icon.png"; sourceTree = "<group>"; };
+		A51576AF1AC6C35E00F2CB27 /* Sports-Golf-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sports-Golf-icon.png"; sourceTree = "<group>"; };
+		A51576B01AC6C35E00F2CB27 /* Sports-Weightlift-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sports-Weightlift-icon.png"; sourceTree = "<group>"; };
+		A51576B11AC6C35E00F2CB27 /* Sports-Kitesurfing-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sports-Kitesurfing-icon.png"; sourceTree = "<group>"; };
+		A51576B21AC6C35E00F2CB27 /* Sports-Mountain-Biking-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sports-Mountain-Biking-icon.png"; sourceTree = "<group>"; };
+		A51576B31AC6C35E00F2CB27 /* Sports-Skiing-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sports-Skiing-icon.png"; sourceTree = "<group>"; };
+		A51576B41AC6C35E00F2CB27 /* Sports-Swimming-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sports-Swimming-icon.png"; sourceTree = "<group>"; };
+		A51576B51AC6C35E00F2CB27 /* Sports-Trekking-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sports-Trekking-icon.png"; sourceTree = "<group>"; };
+		A51576B61AC6C35E00F2CB27 /* Sports-Tennis-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sports-Tennis-icon.png"; sourceTree = "<group>"; };
+		A51576C01AC6C3D000F2CB27 /* Surfing-ico.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Surfing-ico.png"; sourceTree = "<group>"; };
+		A5F8AFF81AC5B89400BBCC8A /* Cornwall Sports.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Cornwall Sports.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5F8AFFC1AC5B89400BBCC8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5F8AFFD1AC5B89400BBCC8A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A5F8AFFF1AC5B89400BBCC8A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A5F8B0021AC5B89400BBCC8A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A5F8B0041AC5B89400BBCC8A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		A5F8B0071AC5B89400BBCC8A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		A5F8B00D1AC5B89400BBCC8A /* Cornwall SportsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cornwall SportsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5F8B0121AC5B89400BBCC8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5F8B0131AC5B89400BBCC8A /* Cornwall_SportsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cornwall_SportsTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A5F8AFF51AC5B89400BBCC8A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A5F8B00A1AC5B89400BBCC8A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A51576A91AC6C08D00F2CB27 /* Sport Icons */ = {
+			isa = PBXGroup;
+			children = (
+				A51576C01AC6C3D000F2CB27 /* Surfing-ico.png */,
+				A51576AE1AC6C35E00F2CB27 /* Travel-Beach-Umbrella-icon.png */,
+				A51576AF1AC6C35E00F2CB27 /* Sports-Golf-icon.png */,
+				A51576B01AC6C35E00F2CB27 /* Sports-Weightlift-icon.png */,
+				A51576B11AC6C35E00F2CB27 /* Sports-Kitesurfing-icon.png */,
+				A51576B21AC6C35E00F2CB27 /* Sports-Mountain-Biking-icon.png */,
+				A51576B31AC6C35E00F2CB27 /* Sports-Skiing-icon.png */,
+				A51576B41AC6C35E00F2CB27 /* Sports-Swimming-icon.png */,
+				A51576B51AC6C35E00F2CB27 /* Sports-Trekking-icon.png */,
+				A51576B61AC6C35E00F2CB27 /* Sports-Tennis-icon.png */,
+				A51576AC1AC6C2BA00F2CB27 /* Sports-Football-icon.png */,
+			);
+			name = "Sport Icons";
+			sourceTree = "<group>";
+		};
+		A5F8AFEF1AC5B89400BBCC8A = {
+			isa = PBXGroup;
+			children = (
+				A5F8AFFA1AC5B89400BBCC8A /* Cornwall Sports */,
+				A5F8B0101AC5B89400BBCC8A /* Cornwall SportsTests */,
+				A5F8AFF91AC5B89400BBCC8A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A5F8AFF91AC5B89400BBCC8A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A5F8AFF81AC5B89400BBCC8A /* Cornwall Sports.app */,
+				A5F8B00D1AC5B89400BBCC8A /* Cornwall SportsTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A5F8AFFA1AC5B89400BBCC8A /* Cornwall Sports */ = {
+			isa = PBXGroup;
+			children = (
+				A5F8AFFD1AC5B89400BBCC8A /* AppDelegate.swift */,
+				A5F8AFFF1AC5B89400BBCC8A /* ViewController.swift */,
+				A51576A91AC6C08D00F2CB27 /* Sport Icons */,
+				A5F8B0011AC5B89400BBCC8A /* Main.storyboard */,
+				A5F8B0041AC5B89400BBCC8A /* Images.xcassets */,
+				A5F8B0061AC5B89400BBCC8A /* LaunchScreen.xib */,
+				A5F8AFFB1AC5B89400BBCC8A /* Supporting Files */,
+			);
+			path = "Cornwall Sports";
+			sourceTree = "<group>";
+		};
+		A5F8AFFB1AC5B89400BBCC8A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A51576A51AC6BF9F00F2CB27 /* cornwallOutlineMapWhiteTrans.png */,
+				A51576A71AC6C07B00F2CB27 /* Cornwall Cities.png */,
+				A51576A31AC6BEDF00F2CB27 /* cornwall.png */,
+				A5F8AFFC1AC5B89400BBCC8A /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A5F8B0101AC5B89400BBCC8A /* Cornwall SportsTests */ = {
+			isa = PBXGroup;
+			children = (
+				A5F8B0131AC5B89400BBCC8A /* Cornwall_SportsTests.swift */,
+				A5F8B0111AC5B89400BBCC8A /* Supporting Files */,
+			);
+			path = "Cornwall SportsTests";
+			sourceTree = "<group>";
+		};
+		A5F8B0111AC5B89400BBCC8A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A5F8B0121AC5B89400BBCC8A /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A5F8AFF71AC5B89400BBCC8A /* Cornwall Sports */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A5F8B0171AC5B89400BBCC8A /* Build configuration list for PBXNativeTarget "Cornwall Sports" */;
+			buildPhases = (
+				A5F8AFF41AC5B89400BBCC8A /* Sources */,
+				A5F8AFF51AC5B89400BBCC8A /* Frameworks */,
+				A5F8AFF61AC5B89400BBCC8A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Cornwall Sports";
+			productName = "Cornwall Sports";
+			productReference = A5F8AFF81AC5B89400BBCC8A /* Cornwall Sports.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A5F8B00C1AC5B89400BBCC8A /* Cornwall SportsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A5F8B01A1AC5B89400BBCC8A /* Build configuration list for PBXNativeTarget "Cornwall SportsTests" */;
+			buildPhases = (
+				A5F8B0091AC5B89400BBCC8A /* Sources */,
+				A5F8B00A1AC5B89400BBCC8A /* Frameworks */,
+				A5F8B00B1AC5B89400BBCC8A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A5F8B00F1AC5B89400BBCC8A /* PBXTargetDependency */,
+			);
+			name = "Cornwall SportsTests";
+			productName = "Cornwall SportsTests";
+			productReference = A5F8B00D1AC5B89400BBCC8A /* Cornwall SportsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A5F8AFF01AC5B89400BBCC8A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = ikristof;
+				TargetAttributes = {
+					A5F8AFF71AC5B89400BBCC8A = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					A5F8B00C1AC5B89400BBCC8A = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = A5F8AFF71AC5B89400BBCC8A;
+					};
+				};
+			};
+			buildConfigurationList = A5F8AFF31AC5B89400BBCC8A /* Build configuration list for PBXProject "Cornwall Sports" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A5F8AFEF1AC5B89400BBCC8A;
+			productRefGroup = A5F8AFF91AC5B89400BBCC8A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A5F8AFF71AC5B89400BBCC8A /* Cornwall Sports */,
+				A5F8B00C1AC5B89400BBCC8A /* Cornwall SportsTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A5F8AFF61AC5B89400BBCC8A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A51576A41AC6BEDF00F2CB27 /* cornwall.png in Resources */,
+				A5F8B0031AC5B89400BBCC8A /* Main.storyboard in Resources */,
+				A51576B81AC6C35E00F2CB27 /* Sports-Golf-icon.png in Resources */,
+				A51576A61AC6BF9F00F2CB27 /* cornwallOutlineMapWhiteTrans.png in Resources */,
+				A51576BC1AC6C35E00F2CB27 /* Sports-Skiing-icon.png in Resources */,
+				A51576BB1AC6C35E00F2CB27 /* Sports-Mountain-Biking-icon.png in Resources */,
+				A51576AD1AC6C2BA00F2CB27 /* Sports-Football-icon.png in Resources */,
+				A51576A81AC6C07B00F2CB27 /* Cornwall Cities.png in Resources */,
+				A51576BF1AC6C35E00F2CB27 /* Sports-Tennis-icon.png in Resources */,
+				A51576C11AC6C3D000F2CB27 /* Surfing-ico.png in Resources */,
+				A51576BE1AC6C35E00F2CB27 /* Sports-Trekking-icon.png in Resources */,
+				A51576BD1AC6C35E00F2CB27 /* Sports-Swimming-icon.png in Resources */,
+				A5F8B0081AC5B89400BBCC8A /* LaunchScreen.xib in Resources */,
+				A51576B71AC6C35E00F2CB27 /* Travel-Beach-Umbrella-icon.png in Resources */,
+				A51576BA1AC6C35E00F2CB27 /* Sports-Kitesurfing-icon.png in Resources */,
+				A51576B91AC6C35E00F2CB27 /* Sports-Weightlift-icon.png in Resources */,
+				A5F8B0051AC5B89400BBCC8A /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A5F8B00B1AC5B89400BBCC8A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A5F8AFF41AC5B89400BBCC8A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5F8B0001AC5B89400BBCC8A /* ViewController.swift in Sources */,
+				A5F8AFFE1AC5B89400BBCC8A /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A5F8B0091AC5B89400BBCC8A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5F8B0141AC5B89400BBCC8A /* Cornwall_SportsTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A5F8B00F1AC5B89400BBCC8A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A5F8AFF71AC5B89400BBCC8A /* Cornwall Sports */;
+			targetProxy = A5F8B00E1AC5B89400BBCC8A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		A5F8B0011AC5B89400BBCC8A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A5F8B0021AC5B89400BBCC8A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A5F8B0061AC5B89400BBCC8A /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A5F8B0071AC5B89400BBCC8A /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A5F8B0151AC5B89400BBCC8A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A5F8B0161AC5B89400BBCC8A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A5F8B0181AC5B89400BBCC8A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Cornwall Sports/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		A5F8B0191AC5B89400BBCC8A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Cornwall Sports/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		A5F8B01B1AC5B89400BBCC8A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Cornwall SportsTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Cornwall Sports.app/Cornwall Sports";
+			};
+			name = Debug;
+		};
+		A5F8B01C1AC5B89400BBCC8A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Cornwall SportsTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Cornwall Sports.app/Cornwall Sports";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A5F8AFF31AC5B89400BBCC8A /* Build configuration list for PBXProject "Cornwall Sports" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5F8B0151AC5B89400BBCC8A /* Debug */,
+				A5F8B0161AC5B89400BBCC8A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A5F8B0171AC5B89400BBCC8A /* Build configuration list for PBXNativeTarget "Cornwall Sports" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5F8B0181AC5B89400BBCC8A /* Debug */,
+				A5F8B0191AC5B89400BBCC8A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A5F8B01A1AC5B89400BBCC8A /* Build configuration list for PBXNativeTarget "Cornwall SportsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5F8B01B1AC5B89400BBCC8A /* Debug */,
+				A5F8B01C1AC5B89400BBCC8A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A5F8AFF01AC5B89400BBCC8A /* Project object */;
+}
